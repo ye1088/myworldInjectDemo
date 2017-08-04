@@ -1,4 +1,4 @@
-package com.google.test;
+package com.google.myworldinjectcode;
 
 import org.junit.Test;
 
